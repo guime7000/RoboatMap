@@ -1,5 +1,5 @@
 {
-"archivedDirectoryPath" : "/path_to_where_your_archived_boat_infos_files_are",
+"archivedDirectoryPath" : "/path_to_where_your_archived_boat_infos_files_are/",
 "lastKnownInfosDirectoryPath" : "path_to_where_your_last_posted_boat_infos_are/",
 "foliumMapDirectoryFile" : "/path_to_where_you_will_store_your_folium_map_index_file/index.html",
 "boatInfoFileExtension" : ".JSON",
