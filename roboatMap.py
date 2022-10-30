@@ -61,7 +61,6 @@ for boatName in fleetList :
     for elem in boatInfos[3:] :
         listCoords.append([elem["lat"],elem["lon"]])
         boatHeading[boatName] = elem["heading"]
-    print(boatName, "|", len(listCoords))
 
     boatCoords[boatName] = listCoords
 
